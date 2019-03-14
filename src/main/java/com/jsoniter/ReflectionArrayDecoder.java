@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.lang.reflect.Array;
 
 class ReflectionArrayDecoder implements Decoder {
-
+    mess with some fields
     private final Class componentType;
     private final Decoder compTypeDecoder;
 
